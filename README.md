@@ -78,8 +78,8 @@ UrbanSense/
 └── ROTEIRO_VIDEO.md
 Demonstração
 - Simulador: https://wokwi.com/projects/480078211156907009
-- Vídeo demonstrativo (YouTube): a adicionar após a gravação.
-Limitações e evolução
+- Vídeo demonstrativo (YouTube): https://youtu.be/JTyzZ74Gg_E?si=XnN8VgxvmgoPBHFp
+- Limitações e evolução
 Esta versão implementa o monitoramento local no ESP32. Ainda não possui integração com backend/nuvem nem dashboard conectado. Uma evolução prevista é transmitir as leituras para uma API e apresentá-las no painel web do UrbanSense. Essa integração não deve ser considerada implementada nesta versão.
 Referências
 - FIAP — Global Solution 2026.2, desafio CitizenTech, disciplina Edge Computing & Computer Systems.
